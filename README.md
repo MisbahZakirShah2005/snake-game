@@ -1,19 +1,4 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SnakeMania</title>
-    <link rel="stylesheet" href="style2.css">
-</head>
-<body>
-    <div class="body">
-        <div id="scoreBox">Score: 0</div>
-        <div id="hiscoreBox">HiScore: 0</div>
-        <div id="board"></div>
-    </div>
-</body>
-<script src="script.js"></script>
-</html>
+![image](https://github.com/user-attachments/assets/c6f915e7-e52d-4687-87c5-88a19c035655)
+
+![image](https://github.com/user-attachments/assets/7e20bb7c-83f0-4122-85c3-5da481f5ed91)
